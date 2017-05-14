@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [17/Nov/2016:02:11:52 -0500] "GET / HTTP/1.1" 200 3807 http-bio-8080-exec-1 64
+0:0:0:0:0:0:0:1 - - [17/Nov/2016:02:11:52 -0500] "GET /home_functions.js HTTP/1.1" 200 882 http-bio-8080-exec-3 16
+0:0:0:0:0:0:0:1 - - [17/Nov/2016:02:11:52 -0500] "GET /home.css HTTP/1.1" 200 2565 http-bio-8080-exec-4 5
+0:0:0:0:0:0:0:1 - - [17/Nov/2016:02:11:52 -0500] "GET /images/Neel_Patel.jpg HTTP/1.1" 200 18857 http-bio-8080-exec-5 6
+0:0:0:0:0:0:0:1 - - [17/Nov/2016:02:11:52 -0500] "GET /Info/Education.png HTTP/1.1" 200 28682 http-bio-8080-exec-6 2
+0:0:0:0:0:0:0:1 - - [17/Nov/2016:02:11:52 -0500] "GET /Info/Skills.png HTTP/1.1" 200 30587 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [17/Nov/2016:02:11:52 -0500] "GET /dark_background.png HTTP/1.1" 200 33702 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [17/Nov/2016:02:11:52 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-9 2

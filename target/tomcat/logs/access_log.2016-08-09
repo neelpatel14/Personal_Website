@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [09/Aug/2016:19:04:21 -0400] "GET / HTTP/1.1" 200 1988 http-bio-8080-exec-1 69
+0:0:0:0:0:0:0:1 - - [09/Aug/2016:19:04:21 -0400] "GET /home.css HTTP/1.1" 200 1350 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [09/Aug/2016:19:04:21 -0400] "GET /Resume.jpg HTTP/1.1" 200 544584 http-bio-8080-exec-2 14
+0:0:0:0:0:0:0:1 - - [09/Aug/2016:19:04:21 -0400] "GET /dark_background.png HTTP/1.1" 200 33702 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [09/Aug/2016:19:04:21 -0400] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [09/Aug/2016:19:04:24 -0400] "GET /ExerciseSettings? HTTP/1.1" 200 1623 http-bio-8080-exec-7 18
+0:0:0:0:0:0:0:1 - - [09/Aug/2016:19:04:24 -0400] "GET /exeSet.css HTTP/1.1" 200 561 http-bio-8080-exec-8 6
+0:0:0:0:0:0:0:1 - - [09/Aug/2016:19:04:24 -0400] "GET /new_attempt.js HTTP/1.1" 304 - http-bio-8080-exec-4 13
+0:0:0:0:0:0:0:1 - - [09/Aug/2016:19:04:28 -0400] "GET /ExerciseRun?timing=15&alert=sound HTTP/1.1" 200 1141 http-bio-8080-exec-10 30
+0:0:0:0:0:0:0:1 - - [09/Aug/2016:19:04:28 -0400] "GET /exeDir.css HTTP/1.1" 304 - http-bio-8080-exec-10 2
